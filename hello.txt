@@ -1,1 +1,5 @@
-Hello World
+Haii ... Dunia !!
+
+Saya Sedang Belajar Menggunakan Git
+
+Saya Pasti Bisa !!
